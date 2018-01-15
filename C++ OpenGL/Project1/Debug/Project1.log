@@ -1,0 +1,35 @@
+﻿  Turret.cpp
+  Tank.cpp
+  Source.cpp
+c:\users\vlad\desktop\backup\programming\update\working2!!!!!!!!!\project1\project1\source.cpp(65): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+c:\users\vlad\desktop\backup\programming\update\working2!!!!!!!!!\project1\project1\source.cpp(65): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\vlad\desktop\backup\programming\update\working2!!!!!!!!!\project1\project1\source.cpp(86): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+c:\users\vlad\desktop\backup\programming\update\working2!!!!!!!!!\project1\project1\source.cpp(86): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\vlad\desktop\backup\programming\update\working2!!!!!!!!!\project1\project1\source.cpp(104): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+c:\users\vlad\desktop\backup\programming\update\working2!!!!!!!!!\project1\project1\source.cpp(104): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\vlad\desktop\backup\programming\update\working2!!!!!!!!!\project1\project1\source.cpp(443): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\vlad\desktop\backup\programming\update\working2!!!!!!!!!\project1\project1\source.cpp(444): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\vlad\desktop\backup\programming\update\working2!!!!!!!!!\project1\project1\source.cpp(446): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\vlad\desktop\backup\programming\update\working2!!!!!!!!!\project1\project1\source.cpp(530): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\vlad\desktop\backup\programming\update\working2!!!!!!!!!\project1\project1\source.cpp(531): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\vlad\desktop\backup\programming\update\working2!!!!!!!!!\project1\project1\source.cpp(535): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\vlad\desktop\backup\programming\update\working2!!!!!!!!!\project1\project1\source.cpp(536): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\vlad\desktop\backup\programming\update\working2!!!!!!!!!\project1\project1\source.cpp(546): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\vlad\desktop\backup\programming\update\working2!!!!!!!!!\project1\project1\source.cpp(547): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\vlad\desktop\backup\programming\update\working2!!!!!!!!!\project1\project1\source.cpp(558): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\vlad\desktop\backup\programming\update\working2!!!!!!!!!\project1\project1\source.cpp(559): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\vlad\desktop\backup\programming\update\working2!!!!!!!!!\project1\project1\source.cpp(571): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\vlad\desktop\backup\programming\update\working2!!!!!!!!!\project1\project1\source.cpp(572): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\vlad\desktop\backup\programming\update\working2!!!!!!!!!\project1\project1\source.cpp(576): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\vlad\desktop\backup\programming\update\working2!!!!!!!!!\project1\project1\source.cpp(577): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\vlad\desktop\backup\programming\update\working2!!!!!!!!!\project1\project1\source.cpp(587): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\vlad\desktop\backup\programming\update\working2!!!!!!!!!\project1\project1\source.cpp(588): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\vlad\desktop\backup\programming\update\working2!!!!!!!!!\project1\project1\source.cpp(599): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\vlad\desktop\backup\programming\update\working2!!!!!!!!!\project1\project1\source.cpp(600): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  PowerUp.cpp
+  Game.cpp
+  Common.cpp
+  Bullet.cpp
+  Generating Code...
+  Project1.vcxproj -> C:\Users\Vlad\Desktop\Backup\Programming\Update\WORKING2!!!!!!!!!\Project1\Debug\Project1.exe
+  Project1.vcxproj -> C:\Users\Vlad\Desktop\Backup\Programming\Update\WORKING2!!!!!!!!!\Project1\Debug\Project1.pdb (Partial PDB)
